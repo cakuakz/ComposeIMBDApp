@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ComposeIMDBApp</string>
+    <string name="share_message">Hey, I have redeem %1$d rewards in Dicoding with total %2$d Points. Do you want too?</string>
+</resources>
